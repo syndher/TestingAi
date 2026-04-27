@@ -26,6 +26,9 @@ namespace LibGameAI.FSMs
             currentState = initialState;
         }
 
+        public object CurrentState { get; internal set; }
+
+
         /// <summary>
         /// Update the FSM and return the actions to perform.
         /// </summary>

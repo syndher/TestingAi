@@ -415,13 +415,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/Scripts/AIBehaviour.cs"
 "Assets/Scripts/FSMs/State.cs"
 "Assets/Scripts/FSMs/StateMachine.cs"
 "Assets/Scripts/FSMs/Transition.cs"
-"Assets/Scripts/PlaneWalls.cs"
-"Assets/Scripts/PlayerBehaviour.cs"
-"Assets/Scripts/RandomWaypointsBehaviour.cs"
+"Assets/Scripts/ScoutAI.cs"
+"Assets/Scripts/ScoutAIRed.cs"
 -langversion:9.0
 /deterministic
 /optimize+
